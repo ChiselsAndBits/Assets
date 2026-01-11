@@ -29,6 +29,8 @@
     |
     <a href="https://www.patreon.com/chisels_and_bits" rel="nofollow">Patreon</a> 
     |
+    <a href="https://www.creeperhost.net/partner/chisels-and-bits-glv" rel="nofollow">CreeperHost</a> 
+    |
 </div>
 
 <p style="text-align: center;">
@@ -38,6 +40,15 @@
 </p>
 <div >
   Thanks for playing with our mod! If you want to support our efforts to keediv developing Chisels and Bits, please consider supporting us on <a href="https://www.patreon.com/chisels_and_bits" rel="nofollow">Patreon</a>.  
+</div>
+
+<p style="text-align: center;">
+  <a href="https://www.creeperhost.net/partner/chisels-and-bits-glv">
+    <img src="https://raw.githubusercontent.com/ChiselsAndBits/Assets/main/CurseForge/Headers/CreeperHost.png" alt="CreepherHost"/>
+  </a>
+</p>
+<div align="left">
+  Thanks to the generous people at CreeperHost, you can now get a 25% discount when buying a server from them. Click on the image above, or use 'chisels-and-bits' as a discount code during checkout!  
 </div>
 
 <p style="text-align: center;">
